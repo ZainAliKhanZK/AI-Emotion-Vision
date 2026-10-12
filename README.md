@@ -1,4 +1,4 @@
-# 🎭 SeeFace — Real-Time Emotion Detection
+# 🎭 SeeFace — Real-Time Emotions Detection
 
 SeeFace is a web app that detects faces in a photo and predicts the person's emotion using a Convolutional Neural Network (CNN) built with Keras. It's built with Streamlit for a fast, interactive UI, right in your browser.
 
